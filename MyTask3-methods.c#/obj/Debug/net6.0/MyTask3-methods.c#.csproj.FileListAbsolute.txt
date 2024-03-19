@@ -1,0 +1,14 @@
+C:\Users\99455\source\repos\MyTask3-methods.c#\MyTask3-methods.c#\bin\Debug\net6.0\MyTask3-methods.c#.exe
+C:\Users\99455\source\repos\MyTask3-methods.c#\MyTask3-methods.c#\bin\Debug\net6.0\MyTask3-methods.c#.deps.json
+C:\Users\99455\source\repos\MyTask3-methods.c#\MyTask3-methods.c#\bin\Debug\net6.0\MyTask3-methods.c#.runtimeconfig.json
+C:\Users\99455\source\repos\MyTask3-methods.c#\MyTask3-methods.c#\bin\Debug\net6.0\MyTask3-methods.c#.dll
+C:\Users\99455\source\repos\MyTask3-methods.c#\MyTask3-methods.c#\bin\Debug\net6.0\MyTask3-methods.c#.pdb
+C:\Users\99455\source\repos\MyTask3-methods.c#\MyTask3-methods.c#\obj\Debug\net6.0\MyTask3-methods.c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\source\repos\MyTask3-methods.c#\MyTask3-methods.c#\obj\Debug\net6.0\MyTask3-methods.c#.AssemblyInfoInputs.cache
+C:\Users\99455\source\repos\MyTask3-methods.c#\MyTask3-methods.c#\obj\Debug\net6.0\MyTask3-methods.c#.AssemblyInfo.cs
+C:\Users\99455\source\repos\MyTask3-methods.c#\MyTask3-methods.c#\obj\Debug\net6.0\MyTask3-methods.c#.csproj.CoreCompileInputs.cache
+C:\Users\99455\source\repos\MyTask3-methods.c#\MyTask3-methods.c#\obj\Debug\net6.0\MyTask3-methods.c#.dll
+C:\Users\99455\source\repos\MyTask3-methods.c#\MyTask3-methods.c#\obj\Debug\net6.0\refint\MyTask3-methods.c#.dll
+C:\Users\99455\source\repos\MyTask3-methods.c#\MyTask3-methods.c#\obj\Debug\net6.0\MyTask3-methods.c#.pdb
+C:\Users\99455\source\repos\MyTask3-methods.c#\MyTask3-methods.c#\obj\Debug\net6.0\MyTask3-methods.c#.genruntimeconfig.cache
+C:\Users\99455\source\repos\MyTask3-methods.c#\MyTask3-methods.c#\obj\Debug\net6.0\ref\MyTask3-methods.c#.dll
